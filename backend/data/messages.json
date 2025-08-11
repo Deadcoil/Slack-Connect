@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0fddbb1a-44f5-456a-a125-dbf3442d2c82",
+    "channel": "C09AAV5GKEC",
+    "channelName": "new-channel",
+    "message": "Test message for 5 min later CT: 12:02Am",
+    "scheduledAt": "2025-08-10T18:37:00.000Z",
+    "status": "sent",
+    "createdAt": "2025-08-10T18:32:07.973Z",
+    "sentAt": "2025-08-10T18:37:01.416Z"
+  },
+  {
+    "id": "10a444dd-518f-4a70-b3f8-c2b2cd2d8d68",
+    "channel": "C09AAV5GKEC",
+    "channelName": "new-channel",
+    "message": "hello hello",
+    "scheduledAt": "2025-08-10T18:56:00.000Z",
+    "status": "cancelled",
+    "createdAt": "2025-08-10T18:54:14.067Z"
+  },
+  {
+    "id": "a7bca5fc-60d8-45ed-ab74-92f645128f50",
+    "channel": "C09AAV5GKEC",
+    "channelName": "new-channel",
+    "message": "test",
+    "scheduledAt": "2025-08-10T18:59:00.000Z",
+    "status": "sent",
+    "createdAt": "2025-08-10T18:57:51.994Z",
+    "sentAt": "2025-08-10T18:59:01.304Z"
+  }
+]
